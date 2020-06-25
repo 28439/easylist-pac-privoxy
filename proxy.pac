@@ -2415,6 +2415,8 @@ var bad_da_host_JSON = { "jobthread.com": null,
 "bnc.lt": null,
 "phunware.com": null,
 "ketchappgames.com": null,
+"agility.cnn.com": null,
+"browsiprod.com": null,
 "outbrain.com": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
     
