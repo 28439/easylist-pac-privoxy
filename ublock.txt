@@ -136,42 +136,39 @@ no-large-media: behind-the-scene false
 * xg4ken.com * block
 * yahoo.com * block
 * yahoodns.net * block
-facebook.com
-fbcdn.net
-instagram.com
-fbcdn.com
-whatsapp.net
-whatsapp.com
-0.0.0.0 www.facebook.de
-0.0.0.0 www.facebook.fr
-energized.pro
-tfbnw.net
-hootsuite.com
-facebook.com.edgesuite.net
-addtoany.com
-cdninstagram.com
-online-metrix.net
-facebook.com.edgekey.net
-foursquare.com
-internet.org
-messenger.com
-m.me
-fb.com
-instagramstatic-a.akamaihd.net.edgesuite.net
-instagramstatic-a.akamaihd.net
-freebasics.com
-fburl.com
-fbsbx.com
-fbstatic-a.akamaihd.net
-fbexternal-a.akamaihd.net
-wechat.com
-fb.me
-facebook-web-clients.appspot.com
-facebook.net.edgekey.net
-tfbnw.net
-28439.github.io google-analytics.com * noop
-28439.github.io googletagmanager.com * noop
-28439.github.io www.googletagmanager.com * noop
+* facebook.com * block
+* fbcdn.net * block
+* instagram.com * block
+* fbcdn.com * block
+* whatsapp.net * block
+* whatsapp.com * block
+* facebook.de * block
+* facebook.fr * block
+* energized.pro * block
+* tfbnw.net * block
+* hootsuite.com * block
+* facebook.com.edgesuite.net * block
+* addtoany.com * block
+* cdninstagram.com * block
+* online-metrix.net * block
+* facebook.com.edgekey.net * block
+* foursquare.com * block
+* internet.org * block
+* messenger.com * block
+* m.me * block
+* fb.com * block
+* instagramstatic-a.akamaihd.net.edgesuite.net * block
+* instagramstatic-a.akamaihd.net * block
+* freebasics.com * block
+* fburl.com * block
+* fbsbx.com * block
+* fbstatic-a.akamaihd.net * block
+* fbexternal-a.akamaihd.net * block
+* wechat.com * block
+* fb.me * block
+* facebook-web-clients.appspot.com * block
+* facebook.net.edgekey.net * block
+* tfbnw.net * block
 accounts.google.com google.com * noop
 analytics.google.com google.com * noop
 aternos.org amazon-adsystem.com * noop
