@@ -3980,6 +3980,7 @@ var bad_da_host_JSON = { "api.facebook.com": null,
 "ipstatp.com": null,
 "ibyeimg.com": null,
 "llnwd.net": null,
+"quantcast.com": null,
 "ntv.io": null,
 "outbrain.com": null };
 var bad_da_host_exact_flag = 3464 > 0 ? true : false;  // test for non-zero number of rules
